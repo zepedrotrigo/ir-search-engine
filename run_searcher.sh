@@ -1,0 +1,1 @@
+python3 main.py searcher pubmedSPIMIindex questions_path output.txt ranking.bm25

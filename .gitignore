@@ -1,0 +1,7 @@
+*.jsonl.gz
+pubmedSPIMIindex
+__pycache__
+run.sh
+temp*.txt
+test.py
+document_N.txt

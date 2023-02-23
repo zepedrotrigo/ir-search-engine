@@ -1,0 +1,1 @@
+python3 main.py indexer collections/pubmed_2022_tiny.jsonl.gz pubmedSPIMIindex --tk.minL 3 --tk.stopwords stopw.txt --tk.stemmer snowball --indexer.ranking_schema bm25 --indexer.memory_threshold 10000000
